@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">**VabisTracker Installer** — это инсталлятор для приложения **VabisTracker**, разработанного для [VTC Vabis Transport](https://truckersmp.com/vtc/81914) в TruckersMP и Euro Truck Simulator 2.<br><br>Данная версия является улучшенным и доработанным вариантом предыдущего инсталлятора. В ней были исправлены недостатки старой версии, а также улучшены стабильность, удобство использования и общий процесс установки приложения.</p>
+**VabisTracker Installer** — это инсталлятор для приложения **VabisTracker**, разработанного для **[VTC Vabis Transport](https://truckersmp.com/vtc/81914)** в TruckersMP и Euro Truck Simulator 2.<br><br>Данная версия является улучшенным и доработанным вариантом предыдущего инсталлятора. В ней были исправлены недостатки старой версии, а также улучшены стабильность, удобство использования и общий процесс установки приложения.</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Скачать инсталлер можно на странице [релизов](https://github.com/wolaryofficial/VabisTrackerInstaller/releases) или с [sharemods]()</p>
+Скачать инсталлер можно на странице **[релизов](https://github.com/wolaryofficial/VabisTrackerInstaller/releases)** или с **[sharemods]()**
 
 ###
 
