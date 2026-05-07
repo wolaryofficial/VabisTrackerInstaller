@@ -40,9 +40,10 @@
 
 ###
 
+<h3 align="left">Отдельная благодарность</h3>
+
 ###
 
-<h3 align="left">Отдельная благодарность</h3>
 **[Polyakoff](https://github.com/GitPolyakoff) за создание VabisTracker 💗**
 
 > [!CAUTION]  
