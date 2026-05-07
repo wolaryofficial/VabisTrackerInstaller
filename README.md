@@ -34,7 +34,7 @@
 
 ###
 
-Скачать инсталлер можно на странице **[релизов](https://github.com/wolaryofficial/VabisTrackerInstaller/releases)** или с **[sharemods]()**
+Скачать инсталлер можно на странице **[релизов](https://github.com/wolaryofficial/VabisTrackerInstaller/releases)** или с **[sharemods](https://sharemods.com/3s29xcy2a30d/VabisTrackerSetup.zip.html)**
 
 ###
 
