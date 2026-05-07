@@ -40,8 +40,10 @@
 
 ###
 
-## Отдельная благодарность
- • [Polyakoff](https://github.com/GitPolyakoff) за создание VabisTracker
+###
+
+<h3 align="left">Отдельная благодарность</h3>
+**[Polyakoff](https://github.com/GitPolyakoff) за создание VabisTracker 💗**
 
 > [!CAUTION]  
 > ### Вы должны быть водителем в [VTC Vabis Transport](https://truckersmp.com/vtc/81914) для использования VabisTracker
