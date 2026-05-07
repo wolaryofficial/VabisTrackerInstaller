@@ -18,8 +18,6 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
