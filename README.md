@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Новый и улучшенный трекер для VTC Vabis Transport</h2>
+<h2 align="center">Новый и улучшенный инсталлер трекера для VTC Vabis Transport</h2>
 
 ###
 
@@ -39,6 +39,9 @@
 Скачать инсталлер можно на странице **[релизов](https://github.com/wolaryofficial/VabisTrackerInstaller/releases)** или с **[sharemods]()**
 
 ###
+
+## Отдельная благодарность
+ • [Polyakoff](https://github.com/GitPolyakoff) за создание VabisTracker
 
 > [!CAUTION]  
 > ### Вы должны быть водителем в [VTC Vabis Transport](https://truckersmp.com/vtc/81914) для использования VabisTracker
